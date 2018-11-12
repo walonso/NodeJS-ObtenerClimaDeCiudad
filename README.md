@@ -11,3 +11,6 @@ https://openweathermap.org/
 ```npm install```
 
 Modificar tanto en clima.jss como en lugar.js las key para poder acceder a los servicios externos.
+
+* Para ejecutarlo:
+```node app -d "[CIUDAD]"```
