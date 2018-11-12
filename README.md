@@ -9,3 +9,5 @@ https://openweathermap.org/
 
 * Comando para instalar:
 npm install
+
+Modificar tanto en clima.jss como en lugar.js las key para poder acceder a los servicios externos.
